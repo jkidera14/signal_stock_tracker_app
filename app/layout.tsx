@@ -27,7 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}npx shadcn@latest add button
+      {children}
       </body>
     </html>
   );
